@@ -1,5 +1,5 @@
 etiketa,metoda,Druzina,Rod,Vrsta,female,male,SA,juv,Opombe,Kozarec,Koordinate,NZS/ RF - rarely found,Koordinate v škatli
-RTSB22-01,ročno,Linyphiidae,Agyneta,sp.,,1,,,ckeck,probl.
+RTSB22-01,ročno,Linyphiidae,Agyneta,sp.,,1,,,ckeck,probl. 
 RTSB22-01,ročno,Linyphiidae,Agyneta,fuscipalpa,1,,,,,RTSB22 skatla1,A01
 RTSB22-01,ročno,Araneidae,Araneus,cf. diadematus,,,,1
 RTSB22-01,ročno,Dictynidae,Brigittea,civica,2,1,,,,RTSB22 skatla1,A02
@@ -72,7 +72,7 @@ RTSB22-06,ročno,Theridiidae,Parasteatoda,tepidariorum,,2,,,,RTSB22 skatla1,D03
 RTSB22-06,ročno,Lycosidae,Pardosa,sp.,1,,,,check,probl.
 RTSB22-06,ročno,Theridiidae,Steatoda,triangulosa,3,,,,,RTSB22 skatla1,D04
 RTSB22-07,"ročno, kečer",Linyphiidae,,sp.,,1,,,check,probl. ,mogoče Araneidae?
-RTSB22-07,"ročno, kečer",Linyphiidae,Agyneta,sp.,1,,,,check,probl.
+RTSB22-07,"ročno, kečer",Linyphiidae,Agyneta,sp.,1,,,,check,probl. 
 RTSB22-07,"ročno, kečer",Araneidae,Argiope,bruennichi,,6,1 F ,1,,RTSB22 skatla1,D05
 RTSB22-07,"ročno, kečer",Clubionidae,Clubiona,sp.,,,,1
 RTSB22-07,"ročno, kečer",Salticidae,Evarcha,arcuata,,2,,,,RTSB22 skatla1,D06
@@ -94,14 +94,14 @@ RTSB22-08,ročno,Lycosidae,Arctosa,leopardus,,1,,,,RTSB22 skatla1,E02
 RTSB22-08,ročno,Araneidae,Argiope,bruennichi,,2,,,,RTSB22 skatla1,E03
 RTSB22-08,ročno,Araneidae,Larinioides,cornutus,,1,,,,RTSB22 skatla1,E04
 RTSB22-08,ročno,Lycosidae,Pardosa,sp.,,,,5
-RTSB22-08,ročno,Lycosidae,Pardosa,cf. proxima / tenuipes,2,,,,check,probl.
+RTSB22-08,ročno,Lycosidae,Pardosa,cf. proxima / tenuipes,2,,,,check,probl. 
 RTSB22-08,ročno,Lycosidae,Pardosa,sp.,1,,,,check?? poišči
 RTSB22-08,ročno,Theridiidae,Phylloneta,impressa,1,,,,,RTSB22 skatla1,E05
 RTSB22-08,ročno,Linyphiidae,Porrhomma,microphthalmum,,1,,,,RTSB22 skatla1,E06
 RTSB22-08,ročno,Thomisidae,Synema,sp.,,,,1
 RTSB22-08,ročno,Thomisidae,Xysticus,sp.,,,,1
 RTSB22-08,ročno,Gnaphosidae,Zelotes,sp.,,,,1
-RTSB22-09,ročno,Lycosidae,Arctosa,sp.,1,,,,check,probl.
+RTSB22-09,ročno,Lycosidae,Arctosa,sp.,1,,,,check,probl. 
 RTSB22-09,pasti,Lycosidae,Arctosa,sp.,,,"10 F, 4M",3
 RTSB22-09,pasti,Salticidae,Ballus,chalybeius,1,,,,,RTSB22 skatla1,E08
 RTSB22-09,pasti,Linyphiidae,Bathyphantes,nigrinus,1,,,,odlomljen izrastek na epigini,RTSB22 skatla1,E09
@@ -148,8 +148,8 @@ RTSB22-12,ročno,Linyphiidae,Palliduphantes,alutacius,1,,,,,RTSB22 skatla1,H04
 RTSB22-12,ročno,Linyphiidae,Tenuiphantes,tenebricola,,2,,,,RTSB22 skatla1,H05
 RTSB22-12,ročno,Theridiidae,Parasteatoda,tepidariorum,1,,,,,RTSB22 skatla1,H06
 RTSB22-12,ročno,Theridiidae,Parasteatoda,sp.,,,1 M
-RTSB22-12,ročno,Lycosidae,Pardosa,sp.,1,,,,check,probl.
-RTSB22-12,ročno,Lycosidae,Piratula,sp.,,,,1,,
+RTSB22-12,ročno,Lycosidae,Pardosa,sp.,1,,,,check,probl. 
+RTSB22-12,ročno,Lycosidae,Piratula,sp.,,,,1,, 
 RTSB22-12,ročno,Zodariidae,Zora,sp.,,,,1
 RTSB22-13,ročno,Agelenidae,Agelena,labyrinthica,1,,,,,RTSB22 skatla1,H07
 RTSB22-13,ročno,Linyphiidae,Agyneta,fuscipalpa,2,,,,,RTSB22 skatla1,H08
@@ -158,7 +158,7 @@ RTSB22-13,ročno,Pholcidae,Pholcus,phalangioides,1,,,,,RTSB22 skatla1,H10
 RTSB22-13,ročno,Pholcidae,Pholcus,opilionoides,1,,,,,RTSB22 skatla1,I01
 RTSB22-13,ročno,Linyphiidae,Mermesus,trilobatus,1,,,,,RTSB22 skatla1,I02
 RTSB22-14,ročno,Araneidae,Larinioides,suspicax,1,,,,,RTSB22 skatla1,I03
-RTSB22-14,ročno,Lycosidae,Pardosa,agrestis,,1,,,probl.
+RTSB22-14,ročno,Lycosidae,Pardosa,agrestis,,1,,,probl. 
 RTSB22-14,ročno,Lycosidae,Pirata,piraticus,,2,,,,RTSB22 skatla1,I04
 RTSB22-14,ročno,Tetragnathidae,Tetragnatha,extensa,1,,1 M,,,RTSB22 skatla1,I05
 RTSB22-15,ročno,Araneidae,Araneus,marmoreus,1,,,,,RTSB22 skatla1,I06
