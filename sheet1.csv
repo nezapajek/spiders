@@ -39,7 +39,7 @@ RTSB22-03,ročno,Lycosidae,Pardosa,sp.,,,,3
 RTSB22-04,"ročno, kečer",Araneidae,Araneus,cf. quadratus,,,"1 F, 1M"
 RTSB22-04,"ročno, kečer",Araneidae,Araneus,cf. marmoreus,,,1 M
 RTSB22-04,"ročno, kečer",Araneidae,Argiope,bruennichi,1,3,1 M,1,,RTSB22 skatla1,B10
-RTSB22-04,"ročno, kečer",Salticidae,Attulus,cf. rupicola/floricola,,2,,,check,NZS
+RTSB22-04,"ročno, kečer",Salticidae,Attulus,cf. rupicola,,2,,,check,NZS
 RTSB22-04,"ročno, kečer",Cheirachantiidae,Cheiracanthium,sp.,,,,7
 RTSB22-04,"ročno, kečer",Clubionidae,Clubiona,sp.,,,,1
 RTSB22-04,"ročno, kečer",Clubionidae,Clubiona,stagnatilis,1,,,,,RTSB22 skatla1,C01
@@ -78,7 +78,7 @@ RTSB22-07,"ročno, kečer",Clubionidae,Clubiona,sp.,,,,1
 RTSB22-07,"ročno, kečer",Salticidae,Evarcha,arcuata,,2,,,,RTSB22 skatla1,D06
 RTSB22-07,"ročno, kečer",Salticidae,Heliophanus,sp.,,,,2
 RTSB22-07,"ročno, kečer",Araneidae,Hypsosinga,sp.,,,,1
-RTSB22-07,"ročno, kečer",Salticidae,Marpissa,radiata,1,,,,check,NZS
+RTSB22-07,"ročno, kečer",Salticidae,Marpissa,cf. radiata,1,,,,check,NZS
 RTSB22-07,"ročno, kečer",Salticidae,Mendoza,canestrinii,,1,,,,RTSB22 skatla1,D07
 RTSB22-07,"ročno, kečer",Thomisidae,Misumena,vatia,,4,,3,,RTSB22 skatla1,D08
 RTSB22-07,"ročno, kečer",Linyphiidae,Neriene,sp.,,,1 M
@@ -124,7 +124,7 @@ RTSB22-10,"ročno, kečer",Tetragnathidae,Tetragnatha,extensa,2,3,,2,,RTSB22 ska
 RTSB22-10,"ročno, kečer",Thomisidae,Xysticus,sp.,,,,2
 RTSB22-11,ročno,Dictynidae,Brigittea,civica,1,,,,,RTSB22 skatla1,G02
 RTSB22-11,ročno,Linyphiidae,Erigone,dentipalpis,1,,,,,RTSB22 skatla1,G03
-RTSB22-11,ročno,Theridiidae,Euryopis,quinqueguttata,,1,,,check,NZS
+RTSB22-11,ročno,Theridiidae,Euryopis,cf. quinqueguttata,,1,,,check,NZS
 RTSB22-11,ročno,Araneidae,Larinioides,sclopetarius,1,,,,,RTSB22 skatla1,G04
 RTSB22-11,ročno,Araneidae,Larinioides,sp.,,,1 F,4
 RTSB22-11,ročno,Linyphiidae,Neriene,clathrata,,1,,,,RTSB22 skatla1,G05

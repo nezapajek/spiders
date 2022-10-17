@@ -1,81 +1,79 @@
-Druzina,Rod,Vrsta,lokalitete
-Agelenidae,Agelena,labyrinthica,"RTSB22-02 (2F), RTSB22-12 (1F), RTSB22-13 (1F), RTSB22-18 (1M), RTSB22-20 (1F), RTSB22-21 (1F)"
-Agelenidae,Allagelena,gracilens,"RTSB22-02 (2M), RTSB22-16 (1F), RTSB22-21 (1M)"
-Araneidae,Araneus,angulatus,RTSB22-21 (1F)
-Araneidae,Araneus,diadematus,RTSB22-28 (1M)
-Araneidae,Araneus,marmoreus,"RTSB22-02 (1F), RTSB22-15 (1F)"
-Araneidae,Argiope,bruennichi,"RTSB22-02 (3M), RTSB22-04 (1F, 3M), RTSB22-07 (6M), RTSB22-08 (2M), RTSB22-16 (1M), RTSB22-29 (1F), RTSB22-30 (1F), RTSB22-34 (1F), RTSB22-35 (2F, 2M)"
-Araneidae,Hypsosinga,heri,"RTSB22-04 (4F, 1M)"
-Araneidae,Hypsosinga,pygmaea,RTSB22-31 (1F)
-Araneidae,Larinioides,cornutus,RTSB22-08 (1M)
-Araneidae,Larinioides,sclopetarius,RTSB22-11 (1F)
-Araneidae,Larinioides,suspicax,"RTSB22-10 (2F), RTSB22-14 (1F)"
-Araneidae,Leviellus,stroemi,"RTSB22-17 (3F), RTSB22-21 (3F)"
-Araneidae,Leviellus,thorelli,"RTSB22-01 (3F), RTSB22-36 (1F)"
-Araneidae,Mangora,acalypha,"RTSB22-04 (1F), RTSB22-16 (1F)"
-Araneidae,Metellina,merianae,"RTSB22-21 (1F, 2M)"
-Araneidae,Nuctenea,umbratica,"RTSB22-01 (3F), RTSB22-05 (2F, 1M), RTSB22-33 (1M)"
-Clubionidae,Clubiona,lutescens,"RTSB22-18 (1F), RTSB22-35 (1M)"
-Clubionidae,Clubiona,phragmitis,RTSB22-10 (1M)
-Clubionidae,Clubiona,stagnatilis,RTSB22-04 (1F)
-Dictynidae,Brigittea,civica,"RTSB22-01 (2F, 1M), RTSB22-11 (1F), RTSB22-36 (1F)"
-Gnaphosidae,Scotophaeus,scutulatus,RTSB22-11 (1M)
-Linyphiidae,Agyneta,fuscipalpa,"RTSB22-01 (1F), RTSB22-13 (2F)"
-Linyphiidae,Bathyphantes,gracilis,"RTSB22-10 (1F), RTSB22-36 (1F)"
-Linyphiidae,Bathyphantes,nigrinus,RTSB22-09 (1F)
-Linyphiidae,Diplostyla,concolor,"RTSB22-09 (2F, 18M), RTSB22-12 (1F), RTSB22-18 (9F, 2M), RTSB22-36 (1M)"
-Linyphiidae,Erigone,dentipalpis,"RTSB22-11 (1F), RTSB22-13 (1F)"
-Linyphiidae,Floronia,bucculenta,"RTSB22-05 (1F), RTSB22-32 (1F)"
-Linyphiidae,Hylyphantes,nigritus,RTSB22-16 (1F)
-Linyphiidae,Linyphia,triangularis,"RTSB22-02 (1M), RTSB22-28 (1F)"
-Linyphiidae,Mermesus,trilobatus,RTSB22-13 (1F)
-Linyphiidae,Microneta,viaria,"RTSB22-09 (2F), RTSB22-19 (1F)"
-Linyphiidae,Neriene,clathrata,"RTSB22-04 (1F), RTSB22-10 (1F), RTSB22-11 (1M), RTSB22-12 (2F, 1M), RTSB22-18 (2M)"
-Linyphiidae,Palliduphantes,alutacius,RTSB22-12 (1F)
-Linyphiidae,Panamomops,mengei,RTSB22-18 (2F)
-Linyphiidae,Porrhomma,microphthalmum,RTSB22-08 (1M)
-Linyphiidae,Tenuiphantes,flavipes,"RTSB22-18 (1F, 1M), RTSB22-19 (6F, 3M)"
-Linyphiidae,Tenuiphantes,mengei,RTSB22-09 (3M)
-Linyphiidae,Tenuiphantes,tenebricola,"RTSB22-12 (2M), RTSB22-18 (1M)"
-Linyphiidae,Walckenaria,alticeps,RTSB22-18 (1F)
-Lycosidae,Arctosa,leopardus,"RTSB22-08 (1M), RTSB22-10 (1F), RTSB22-34 (1F)"
-Lycosidae,Hogna,radiata,"RTSB22-01 (1M), RTSB22-36 (1F)"
-Lycosidae,Pardosa,agrestis,"RTSB22-01 (1F), RTSB22-03 (4F), RTSB22-14 (1M)"
-Lycosidae,Pardosa,amentata,RTSB22-30 (1F)
-Lycosidae,Pardosa,prativaga,RTSB22-04 (1F)
-Lycosidae,Pirata,piraticus,"RTSB22-10 (3F), RTSB22-14 (2M)"
-Lycosidae,Piratula,latitans,RTSB22-36 (1F)
-Lycosidae,Trochosa,ruricola,RTSB22-18 (1F)
-Lycosidae,Trochosa,terricola,RTSB22-19 (1F)
-Lycosidae,Xerolycosa,nemoralis,RTSB22-05 (1F)
-Mimetidae,Ero,aphana,RTSB22-36 (1F)
-Pholcidae,Holocnemus,pluchei,RTSB22-36 (1F)
-Pholcidae,Pholcus,opilionides,RTSB22-33 (1F)
-Pholcidae,Pholcus,opilionoides,"RTSB22-13 (1F), RTSB22-17 (1F), RTSB22-21 (1F)"
-Pholcidae,Pholcus,phalangioides,"RTSB22-05 (1F), RTSB22-13 (1F), RTSB22-27 (1F), RTSB22-33 (1F), RTSB22-36 (1M)"
-Phrurolithidae,Phrurolithus,festivus,"RTSB22-09 (1M), RTSB22-18 (1M)"
-Pisauridae,Pisaura,mirabilis,RTSB22-02 (1F)
-Salticidae,Ballus,chalybeius,RTSB22-09 (1F)
-Salticidae,Evarcha,arcuata,"RTSB22-04 (1M), RTSB22-07 (2M), RTSB22-22 (1F), RTSB22-23 (1M), RTSB22-29 (1M)"
-Salticidae,Evarcha,falcata,RTSB22-02 (1F)
-Salticidae,Marpissa,muscosa,RTSB22-24 (1M)
-Salticidae,Marpissa,radiata,RTSB22-07 (1F)
-Salticidae,Mendoza,canestrinii,"RTSB22-07 (1M), RTSB22-08 (1F)"
-Salticidae,Neon,reticulatus,RTSB22-19 (2F)
-Segestriidae,Segestria,bavarica,RTSB22-11 (1F)
-Tetragnathidae,Metellina,segmentata,RTSB22-05 (1F)
-Tetragnathidae,Tetragnatha,extensa,"RTSB22-10 (2F, 3M), RTSB22-14 (1F), RTSB22-31 (1F)"
-Tetragnathidae,Tetragnatha,montana,"RTSB22-21 (1M), RTSB22-25 (1M)"
-Tetragnathidae,Tetragnatha,nigrita,"RTSB22-01 (1M), RTSB22-07 (1M), RTSB22-31 (1F)"
-Theridiidae,Enoplognatha,ovata,"RTSB22-12 (1F), RTSB22-28 (1F), RTSB22-35 (1F)"
-Theridiidae,Euryopis,flavomaculata,RTSB22-18 (1F)
-Theridiidae,Euryopis,quinqueguttata,RTSB22-11 (1M)
-Theridiidae,Parasteatoda,tepidariorum,"RTSB22-01 (1F), RTSB22-05 (2F), RTSB22-06 (2M), RTSB22-11 (1M), RTSB22-12 (1F), RTSB22-17 (1F, 1M), RTSB22-21 (1F), RTSB22-26 (1F), RTSB22-33 (1F)"
-Theridiidae,Phylloneta,impressa,RTSB22-08 (1F)
-Theridiidae,Steatoda,bipunctata,"RTSB22-01 (3F, 1M), RTSB22-21 (1F)"
-Theridiidae,Steatoda,triangulosa,"RTSB22-01 (2F, 3M), RTSB22-06 (3F), RTSB22-11 (1M)"
-Theridiidae,Theridion,pinastri,RTSB22-01 (1F)
-Thomisidae,Misumena,vatia,"RTSB22-02 (2M), RTSB22-07 (4M), RTSB22-10 (1M), RTSB22-16 (1M), RTSB22-35 (1F, 1M)"
-Thomisidae,Ozyptila,praticola,RTSB22-18 (1F)
-Thomisidae,Synema,globosum,RTSB22-07 (1F)
-Zodariidae,Zodarion,rubidum,"RTSB22-01 (1F, 2M), RTSB22-07 (1F), RTSB22-33 (1F)"
+Druzina,Vrsta1,lokalitete
+Agelenidae,Agelena labyrinthica,"RTSB22-02 (2F), RTSB22-12 (1F), RTSB22-13 (1F), RTSB22-18 (1M), RTSB22-20 (1F), RTSB22-21 (1F)"
+Agelenidae,Allagelena gracilens,"RTSB22-02 (2M), RTSB22-16 (1F), RTSB22-21 (1M)"
+Araneidae,Araneus angulatus,RTSB22-21 (1F)
+Araneidae,Araneus diadematus,RTSB22-28 (1M)
+Araneidae,Araneus marmoreus,"RTSB22-02 (1F), RTSB22-15 (1F)"
+Araneidae,Argiope bruennichi,"RTSB22-02 (3M), RTSB22-04 (1F, 3M), RTSB22-07 (6M), RTSB22-08 (2M), RTSB22-16 (1M), RTSB22-29 (1F), RTSB22-30 (1F), RTSB22-34 (1F), RTSB22-35 (2F, 2M)"
+Araneidae,Hypsosinga heri,"RTSB22-04 (4F, 1M)"
+Araneidae,Hypsosinga pygmaea,RTSB22-31 (1F)
+Araneidae,Larinioides cornutus,RTSB22-08 (1M)
+Araneidae,Larinioides sclopetarius,RTSB22-11 (1F)
+Araneidae,Larinioides suspicax,"RTSB22-10 (2F), RTSB22-14 (1F)"
+Araneidae,Leviellus stroemi,"RTSB22-17 (3F), RTSB22-21 (3F)"
+Araneidae,Leviellus thorelli,"RTSB22-01 (3F), RTSB22-36 (1F)"
+Araneidae,Mangora acalypha,"RTSB22-04 (1F), RTSB22-16 (1F)"
+Araneidae,Metellina merianae,"RTSB22-21 (1F, 2M)"
+Araneidae,Nuctenea umbratica,"RTSB22-01 (3F), RTSB22-05 (2F, 1M), RTSB22-33 (1M)"
+Clubionidae,Clubiona lutescens,"RTSB22-18 (1F), RTSB22-35 (1M)"
+Clubionidae,Clubiona phragmitis,RTSB22-10 (1M)
+Clubionidae,Clubiona stagnatilis,RTSB22-04 (1F)
+Dictynidae,Brigittea civica,"RTSB22-01 (2F, 1M), RTSB22-11 (1F), RTSB22-36 (1F)"
+Gnaphosidae,Scotophaeus scutulatus,RTSB22-11 (1M)
+Linyphiidae,Agyneta fuscipalpa,"RTSB22-01 (1F), RTSB22-13 (2F)"
+Linyphiidae,Bathyphantes gracilis,"RTSB22-10 (1F), RTSB22-36 (1F)"
+Linyphiidae,Bathyphantes nigrinus,RTSB22-09 (1F)
+Linyphiidae,Diplostyla concolor,"RTSB22-09 (2F, 18M), RTSB22-12 (1F), RTSB22-18 (9F, 2M), RTSB22-36 (1M)"
+Linyphiidae,Erigone dentipalpis,"RTSB22-11 (1F), RTSB22-13 (1F)"
+Linyphiidae,Floronia bucculenta,"RTSB22-05 (1F), RTSB22-32 (1F)"
+Linyphiidae,Hylyphantes nigritus,RTSB22-16 (1F)
+Linyphiidae,Linyphia triangularis,"RTSB22-02 (1M), RTSB22-28 (1F)"
+Linyphiidae,Mermesus trilobatus,RTSB22-13 (1F)
+Linyphiidae,Microneta viaria,"RTSB22-09 (2F), RTSB22-19 (1F)"
+Linyphiidae,Neriene clathrata,"RTSB22-04 (1F), RTSB22-10 (1F), RTSB22-11 (1M), RTSB22-12 (2F, 1M), RTSB22-18 (2M)"
+Linyphiidae,Palliduphantes alutacius,RTSB22-12 (1F)
+Linyphiidae,Panamomops mengei,RTSB22-18 (2F)
+Linyphiidae,Porrhomma microphthalmum,RTSB22-08 (1M)
+Linyphiidae,Tenuiphantes flavipes,"RTSB22-18 (1F, 1M), RTSB22-19 (6F, 3M)"
+Linyphiidae,Tenuiphantes mengei,RTSB22-09 (3M)
+Linyphiidae,Tenuiphantes tenebricola,"RTSB22-12 (2M), RTSB22-18 (1M)"
+Linyphiidae,Walckenaria alticeps,RTSB22-18 (1F)
+Lycosidae,Arctosa leopardus,"RTSB22-08 (1M), RTSB22-10 (1F), RTSB22-34 (1F)"
+Lycosidae,Hogna radiata,"RTSB22-01 (1M), RTSB22-36 (1F)"
+Lycosidae,Pardosa agrestis,"RTSB22-01 (1F), RTSB22-03 (4F), RTSB22-14 (1M)"
+Lycosidae,Pardosa amentata,RTSB22-30 (1F)
+Lycosidae,Pardosa prativaga,RTSB22-04 (1F)
+Lycosidae,Pirata piraticus,"RTSB22-10 (3F), RTSB22-14 (2M)"
+Lycosidae,Piratula latitans,RTSB22-36 (1F)
+Lycosidae,Trochosa ruricola,RTSB22-18 (1F)
+Lycosidae,Trochosa terricola,RTSB22-19 (1F)
+Lycosidae,Xerolycosa nemoralis,RTSB22-05 (1F)
+Mimetidae,Ero aphana,RTSB22-36 (1F)
+Pholcidae,Holocnemus pluchei,RTSB22-36 (1F)
+Pholcidae,Pholcus opilionides,RTSB22-33 (1F)
+Pholcidae,Pholcus opilionoides,"RTSB22-13 (1F), RTSB22-17 (1F), RTSB22-21 (1F)"
+Pholcidae,Pholcus phalangioides,"RTSB22-05 (1F), RTSB22-13 (1F), RTSB22-27 (1F), RTSB22-33 (1F), RTSB22-36 (1M)"
+Phrurolithidae,Phrurolithus festivus,"RTSB22-09 (1M), RTSB22-18 (1M)"
+Pisauridae,Pisaura mirabilis,RTSB22-02 (1F)
+Salticidae,Ballus chalybeius,RTSB22-09 (1F)
+Salticidae,Evarcha arcuata,"RTSB22-04 (1M), RTSB22-07 (2M), RTSB22-22 (1F), RTSB22-23 (1M), RTSB22-29 (1M)"
+Salticidae,Evarcha falcata,RTSB22-02 (1F)
+Salticidae,Marpissa muscosa,RTSB22-24 (1M)
+Salticidae,Mendoza canestrinii,"RTSB22-07 (1M), RTSB22-08 (1F)"
+Salticidae,Neon reticulatus,RTSB22-19 (2F)
+Segestriidae,Segestria bavarica,RTSB22-11 (1F)
+Tetragnathidae,Metellina segmentata,RTSB22-05 (1F)
+Tetragnathidae,Tetragnatha extensa,"RTSB22-10 (2F, 3M), RTSB22-14 (1F), RTSB22-31 (1F)"
+Tetragnathidae,Tetragnatha montana,"RTSB22-21 (1M), RTSB22-25 (1M)"
+Tetragnathidae,Tetragnatha nigrita,"RTSB22-01 (1M), RTSB22-07 (1M), RTSB22-31 (1F)"
+Theridiidae,Enoplognatha ovata,"RTSB22-12 (1F), RTSB22-28 (1F), RTSB22-35 (1F)"
+Theridiidae,Euryopis flavomaculata,RTSB22-18 (1F)
+Theridiidae,Parasteatoda tepidariorum,"RTSB22-01 (1F), RTSB22-05 (2F), RTSB22-06 (2M), RTSB22-11 (1M), RTSB22-12 (1F), RTSB22-17 (1F, 1M), RTSB22-21 (1F), RTSB22-26 (1F), RTSB22-33 (1F)"
+Theridiidae,Phylloneta impressa,RTSB22-08 (1F)
+Theridiidae,Steatoda bipunctata,"RTSB22-01 (3F, 1M), RTSB22-21 (1F)"
+Theridiidae,Steatoda triangulosa,"RTSB22-01 (2F, 3M), RTSB22-06 (3F), RTSB22-11 (1M)"
+Theridiidae,Theridion pinastri,RTSB22-01 (1F)
+Thomisidae,Misumena vatia,"RTSB22-02 (2M), RTSB22-07 (4M), RTSB22-10 (1M), RTSB22-16 (1M), RTSB22-35 (1F, 1M)"
+Thomisidae,Ozyptila praticola,RTSB22-18 (1F)
+Thomisidae,Synema globosum,RTSB22-07 (1F)
+Zodariidae,Zodarion rubidum,"RTSB22-01 (1F, 2M), RTSB22-07 (1F), RTSB22-33 (1F)"
